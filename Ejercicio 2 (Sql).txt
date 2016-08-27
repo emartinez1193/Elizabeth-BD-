@@ -1,0 +1,4 @@
+Elabore un query que muestre por cada cliente (CustomerId) de Northwind, el gasto mayor que 
+ha hecho por transporte de mercancia (freight) de una de sus ordenes de compra, el nombre de 
+la compañia de envio por la cual se fue ese pago por envio de mayor costo, y el monto total que 
+ha gastado en gastado en transporte de mercancias al sumar todas sus ordenes de compras de ese cliente.
